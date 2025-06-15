@@ -93,16 +93,3 @@ Returns JSON:
 - Flask (API)
 - Streamlit (UI)
 
----
-
-## Author
-Sidhant Chanana  
-Graduate Student | Machine Learning & AI  
-[Portfolio](https://sidchan2805.github.io)  
-[LinkedIn](https://linkedin.com/in/sidhantchanana)  
-[GitHub](https://github.com/Sidchan2805)
-
----
-
-## License
-MIT License
