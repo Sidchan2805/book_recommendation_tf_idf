@@ -1,0 +1,24 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+
+# Database & CSVs (optional — only if you don't want to commit them)
+books.db
+books_with_descriptions.csv
+
+# Logs
+app.log
+
+# Virtual environment
+venv/
+
+# Streamlit cache
+.streamlit/
+.cache/
+
+# OS & IDE files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
